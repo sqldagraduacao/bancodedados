@@ -2,7 +2,7 @@
 
 Seja bem vindo ao repositorio do SQL da Gradução [Canal no Youtube](https://www.youtube.com/channel/UChUjnCbv4wn6t6oF2VRg-Ow).
 
-## Getting Started
+## Como contribuir?
 
 Contributing to open source is more than just providing updates, it's also letting us know when there is an issue. Read our [Contributing guidance](.github/CONTRIBUTING.md) to find out more.
 
@@ -16,19 +16,18 @@ Contributing to the documentation requires a GitHub account. If you don't have a
 
 Install the following tools:
 
+* [Xampp](https://www.apachefriends.org/xampp-files/7.0.32/xampp-win32-7.0.32-0-VC14-installer.exe)
 * [Git](https://git-scm.com/download)
 * [Visual Studio Code](https://code.visualstudio.com/Download)
-* [Docs Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack) extension for Visual Studio Code
 
-#### Install
+#### Instalação
 
 Follow the instructions provided in the [Install content authoring tools](https://docs.microsoft.com/contribute/get-started-setup-tools) from our contributor guide.
 
-## License
 
-Please refer to [LICENSE](.github/LICENSE), [LICENSE-CODE](.github/LICENSE-CODE) and [ThirdPartyNotices](.github/ThirdPartyNotices.md) for all Licensing information.
+#### Configuração
 
-## Code of Conduct
+Como configurar o ambiente para acomapanhar os tutoriais
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information, see the [Code of Conduct FAQ](https://ope
+
+
