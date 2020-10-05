@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/sqldagraduacao/bancodedado
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Abstração
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nível Físico: este nível descreve a forma de armazenamento dos dados, a granularidade pode chegar a bytes ou páginas de dados.
 
 ```markdown
 Syntax highlighted code block
@@ -27,6 +27,15 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Modelo de Dados
+
+Descrição dos modelos de dados
+
+### Modelo Entidade Relacionamento
+
+Descrição do Modelos Entidade Relacionamento
+
 
 ### Jekyll Themes
 
