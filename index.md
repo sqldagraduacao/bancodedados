@@ -6,5 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Comando Create
 
-Comando Create [Comando Create] (./linguagem-sql/create.md)
+[Comando Create](/linguagem-sql/create.md)
+
+
 
