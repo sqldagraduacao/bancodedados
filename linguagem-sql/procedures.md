@@ -4,7 +4,9 @@
 
 ```text
 CREATE PROCEDURE uspRetornaIdade
+(
 @CodigoCliente int
+)
 AS
 SELECT Clientes.ClienteNome, YEAR(GETDATE())-YEAR(ClienteNascimento) AS IDADE
 FROM Clientes
@@ -32,7 +34,9 @@ exec uspRetornaIdade @parametro;
 
 ```text
 CREATE PROCEDURE uspRetornaSeTemCartao
+(
 @CodigoCliente int
+)
 AS
 BEGIN
 
