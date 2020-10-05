@@ -4,9 +4,17 @@ You can use the [editor on GitHub](https://github.com/sqldagraduacao/bancodedado
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Comando Create
+### Introdução
+
+### Abstração de Dados
+
+### Linguagem SQL
 
 [Comando Create](/linguagem-sql/create.md)
+[Comando Insert](/linguagem-sql/insert.md)
+[Comando Select](/linguagem-sql/select.md)
+[Comando Update](/linguagem-sql/update.md)
+[Comando Delete](/linguagem-sql/delete.md)
 
 
 
