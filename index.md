@@ -1,6 +1,11 @@
 # Conteúdo
 
 * [Introdução](introducao.md)
+
+* [Abstração](introducao.md)
+
+* [Modelos de Dados](introducao.md)
+
 * [Linguagem SQL](linguagem-sql/README.md)
   * [CREATE](linguagem-sql/create.md)
   * [INSERT](linguagem-sql/insert.md)
@@ -17,12 +22,11 @@
 
 # Exercícios
 
-* [Exercícios SQL](exercicios-sql/README.md)
-  * [EXERCÍCIOS Parte 1](exercicios-sql/exercicios-parte-1.md)
-  * [EXERCÍCIOS Parte 2](exercicios-sql/exercicios-parte-2.md)
-  * [EXERCÍCIOS Parte 3](exercicios-sql/exercicios-parte-3.md)
-  * [EXERCÍCIOS Procedure](exercicios-sql/exercicios-procedure.md)
-  * [EXERCÍCIOS Insert com Select](exercicios-sql/exercicios-procedure-insert-select.md)
+* [EXERCÍCIOS Parte 1](exercicios-sql/exercicios-parte-1.md)
+* [EXERCÍCIOS Parte 2](exercicios-sql/exercicios-parte-2.md)
+* [EXERCÍCIOS Parte 3](exercicios-sql/exercicios-parte-3.md)
+* [EXERCÍCIOS Procedure](exercicios-sql/exercicios-procedure.md)
+* [EXERCÍCIOS Insert com Select](exercicios-sql/exercicios-procedure-insert-select.md)
 
 # Ferramentas
 
