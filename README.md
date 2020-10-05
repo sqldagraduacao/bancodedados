@@ -6,9 +6,6 @@ Seja bem vindo ao repositorio do SQL da Gradução [Canal no Youtube](https://ww
 # Conteúdo
 
 * [Introdução](https://sqldagraduacao.github.io/bancodedados/introducao.html)
-* [Download SQL Server 2017 e SSMS](https://sqldagraduacao.github.io/bancodedados/download-sql-server-2017-e-ssms.html)
-* [Instalar SQL Server 2017](https://sqldagraduacao.github.io/bancodedados/instalar-sql-server-2017.html)
-* [Instalar SSMS](https://sqldagraduacao.github.io/bancodedados/instalar-ssms.html)
 * [Linguagem SQL](https://sqldagraduacao.github.io/bancodedados/linguagem-sql)
   * [CREATE](https://sqldagraduacao.github.io/bancodedados/linguagem-sql/create.html)
   * [INSERT](https://sqldagraduacao.github.io/bancodedados/linguagem-sql/insert.html)
@@ -28,6 +25,8 @@ Seja bem vindo ao repositorio do SQL da Gradução [Canal no Youtube](https://ww
   * [EXERCÍCIOS Parte 3](https://sqldagraduacao.github.io/bancodedados/exercicios-sql/exercicios-parte-3.md)
   * [EXERCÍCIOS Procedure](https://sqldagraduacao.github.io/bancodedados/exercicios-sql/exercicios-procedure.md)
   * [EXERCÍCIOS Insert com Select](https://sqldagraduacao.github.io/bancodedados/exercicios-sql/exercicios-procedure-insert-select.md)
+* [Download SQL Server 2017 e SSMS](https://sqldagraduacao.github.io/bancodedados/download-sql-server-2017-e-ssms.html)
+* [Instalar SQL Server 2017](https://sqldagraduacao.github.io/bancodedados/instalar-sql-server-2017.html)
+* [Instalar SSMS](https://sqldagraduacao.github.io/bancodedados/instalar-ssms.html)
 * [Documentação dos SGBD](https://sqldagraduacao.github.io/bancodedados/documentacao-dos-sgbd.md)
-
 
