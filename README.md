@@ -5,7 +5,6 @@ Seja bem vindo ao repositorio do SQL da Gradução [Canal no Youtube](https://ww
 
 # Conteúdo
 
-* Material de Banco de Dados
 * [Introdução](https://sqldagraduacao.github.io/bancodedados/introducao.html)
 * [Download SQL Server 2017 e SSMS](https://sqldagraduacao.github.io/bancodedados/download-sql-server-2017-e-ssms.html)
 * [Instalar SQL Server 2017](https://sqldagraduacao.github.io/bancodedados/instalar-sql-server-2017.html)
