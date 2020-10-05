@@ -11,9 +11,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Linguagem SQL
 
 [Comando Create](/linguagem-sql/create.md)
+
 [Comando Insert](/linguagem-sql/insert.md)
+
 [Comando Select](/linguagem-sql/select.md)
+
 [Comando Update](/linguagem-sql/update.md)
+
 [Comando Delete](/linguagem-sql/delete.md)
 
 
