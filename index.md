@@ -4,6 +4,5 @@ You can use the [editor on GitHub](https://github.com/sqldagraduacao/bancodedado
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Comando Create 
+### [Comando Create] (./linguagem-sql/create.md) # Comando Create!
 
-[Comando Create](./linguagem-sql/create.md) # It works!
