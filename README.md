@@ -10,7 +10,7 @@ Seja bem vindo ao repositorio do SQL da Gradução [Canal no Youtube](https://ww
 * [Download SQL Server 2017 e SSMS](download-sql-server-2017-e-ssms.md)
 * [Instalar SQL Server 2017](instalar-sql-server-2017.md)
 * [Instalar SSMS](instalar-ssms.md)
-* [Linguagem SQL](sqldagraduacao/bancodedados/linguagem-sql/README.md)
+* [Linguagem SQL](sqldagraduacao/bancodedados/tree/gh-pages/linguagem-sql/README.md)
   * [CREATE](linguagem-sql/create.md)
   * [INSERT](linguagem-sql/insert.md)
   * [UPDATE](linguagem-sql/update.md)
