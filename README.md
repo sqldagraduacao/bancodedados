@@ -8,7 +8,7 @@ Seja bem vindo ao repositorio do SQL da Gradução [Canal no Youtube](https://ww
 * [Material de Banco de Dados](https://sqldagraduacao.github.io/bancodedados/README.md)
 * [Introdução](https://sqldagraduacao.github.io/bancodedados/introducao.html)
 * [Download SQL Server 2017 e SSMS](https://sqldagraduacao.github.io/bancodedados/download-sql-server-2017-e-ssms.html)
-* [Instalar SQL Server 2017](instalar-sql-server-2017)
+* [Instalar SQL Server 2017](https://sqldagraduacao.github.io/bancodedados/instalar-sql-server-2017.html)
 * [Instalar SSMS](https://sqldagraduacao.github.io/bancodedados/instalar-ssms.html)
 * [Linguagem SQL](https://sqldagraduacao.github.io/bancodedados/linguagem-sql)
   * [CREATE](https://sqldagraduacao.github.io/bancodedados/linguagem-sql/create.html)
