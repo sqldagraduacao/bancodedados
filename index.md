@@ -23,5 +23,6 @@
   * [EXERCÍCIOS Parte 2](exercicios-sql/exercicios-parte-2.md)
   * [EXERCÍCIOS Parte 3](exercicios-sql/exercicios-parte-3.md)
   * [EXERCÍCIOS Procedure](exercicios-sql/exercicios-procedure.md)
+  * [EXERCÍCIOS Insert com Select](exercicios-sql/exercicios-procedure-insert-select.md)
 * [Documentação dos SGBD](documentacao-dos-sgbd.md)
 
